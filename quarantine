@@ -1,0 +1,19 @@
+ident
+line
+250 500 0 650 500 0
+line
+450 500 0 450 200 0
+line
+450 200 0 350 100 0
+line
+450 200 0 550 100 0
+sphere
+450 600 0 100
+box
+250 700 200 400 600 400
+rotate
+x -10
+rotate
+y 20
+apply
+display
